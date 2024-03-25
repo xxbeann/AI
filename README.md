@@ -21,3 +21,6 @@ ability of learning know-how(학습)<br>
 ‘계산기법(Computation)’을 이용하여 ‘지능(Intelligence)’를 ‘학습(Learning)’ 하는것
 
 > 인공지능이 무섭게 성장하고 있다. 특히 '생성형 AI'가 무서운 성장세다. <br>인간이 컴퓨터를 지배하는 게 아닌 반대가 되는것 같다. - prof. One
+
+for more details.<br>
+https://xxbean.notion.site/345fb5aafbd74b249610152fde64cad9?pvs=4
